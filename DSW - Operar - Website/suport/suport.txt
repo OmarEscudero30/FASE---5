@@ -1,0 +1,1 @@
+Dispositivos IOS: <link rel="apple-touch-icon" sizes="128x128" href="icons/apple-touch-icon.png">
